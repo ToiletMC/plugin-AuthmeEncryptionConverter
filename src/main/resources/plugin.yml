@@ -1,0 +1,7 @@
+name: AEC
+version: '${version}'
+main: net.toiletmc.aec.AEC
+api-version: '1.19'
+authors: [TheLittle_Yang]
+softdepend:
+  - AuthMe
